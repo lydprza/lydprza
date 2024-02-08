@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning R!
 - 📫 How to reach me: Don't! :)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a trained chef!
 
 <!---
 lydprza/lydprza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
